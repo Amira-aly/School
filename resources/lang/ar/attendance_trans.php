@@ -1,0 +1,25 @@
+<?php
+return [
+    'list_attendance' => 'قائمة الحضور والغياب للطلاب',
+    'date' => 'تاريخ اليوم',
+    'name' => 'الاسم',
+    'email' => 'البريد الالكتروني',
+    'Processes' => 'العمليات',
+    'level' => 'المرحلة الدراسية',
+    'classrooms' => 'الصف الدراسي',
+    'section' => 'القسم',
+    'Close' => 'اغلاق',
+    'submit' => 'حفظ البيانات',
+    'Delete' => 'حذف',
+    'presence' => 'حضور',
+    'absence' => 'غياب',
+    'attendance' => 'الحضور والغياب',
+    'add_section' => 'اضافة قسم',
+    'Name_Section'=>'اسم القسم',
+    'Name_Class'=>' اسم الصف الدراسي',
+    'Status'=>'الحالة',
+    'list_student' => 'قائمة الطلاب',
+    'active' => 'نشط',
+    'inactive' => 'غير نشط',
+
+];
